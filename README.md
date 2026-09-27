@@ -65,7 +65,7 @@ Read the [instructions/markdown.instruction.en.md](instructions/markdown.instruc
 1. Clone this repository.
 2. Open the `index.html` file in your browser. No Python or additional installation is required.
 
-  Alternatively, you can use the online version: [LLM Coder](https://christorng.github.io/LLMCoder/). It runs entirely in your browser, and no data is sent to any server.
+  Alternatively, you can use the online version: [LLM Coder](https://christorng.idv.tw/LLMCoder/). It runs entirely in your browser, and no data is sent to any server.
 
 ### Integration with Claude
 
